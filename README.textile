@@ -1,0 +1,3 @@
+h1. Lua Wiki Creole
+
+I want to learn a bit a Lua and I noticed on the Wiki Creole page that no-one has written a Creole parser yet so while I don't think this learning project is going to be up to the job I did think that at least it had some relevance if I made any progress on it.
